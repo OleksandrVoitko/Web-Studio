@@ -5,3 +5,27 @@
 
 // Стили для файла с примером HTML-фрагмента
 @import './example';
+
+:root {
+  --main-font: 'Roboto', sans-serif;
+  --secondary-font: 'Raleway', sans-serif;
+
+  --accent-color: #2196f3;
+  --logo-black-color: #000000;
+  --logo-light-color: #ffffff;
+
+  --titel-dark-color: #212121;
+  --titel-light-color: #ffffff;
+
+  --accent-btn-collor: #2196f3;
+  --text-btn-light-collor: #ffffff;
+  --text-btn-dark-collor: #212121;
+
+  --text-lite-color: #ffffff;
+  --text-dark-color: #757575;
+  --footer-text-color: rgba(255, 255, 255, 0.6);
+
+  --portfolio-btn-color: #f5f4fa;
+}
+
+
